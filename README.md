@@ -6,3 +6,6 @@ Follow the [instructions](https://github.com/LEARNAcademy/Syllabus/blob/master/t
 
 
 Make changes to this file here:
+
+
+This is the one I did on my local computer
